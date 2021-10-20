@@ -1,0 +1,39 @@
+body {
+    background-size: contain;
+}
+
+.heading {
+    width: 100%;
+    font-size: 23px;
+    box-shadow: 3px 3px 5px white;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+input {
+    border: black 2px solid;
+    color: black;
+    background-color: white;
+    border-radius: 5px;
+    margin: 5px;
+    font-size: 17px;
+}
+
+#Start {
+    width: 10%;
+    border: black solid 1px;
+    box-shadow: 2px 2px 4px white;
+    font-size: 17px;
+}
+
+#Status {
+    width: 30%;
+    border: 1px solid black;
+    box-shadow: 2px 2px 4px white;
+    font-size: 17px;
+}
+
+canvas {
+    border: white 5px ridge;
+}
